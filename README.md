@@ -2,7 +2,7 @@
 ## Developers: Steven To, Christian Cate, Kristine Alba, Robert Pickell
 CS583 - 3D Project (Group Project)
 
-"WTHIGOIS"
+"Nightmare Station"
 
 Robert Pickell - art / story line  
 Steven To - level design / music  
