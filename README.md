@@ -26,9 +26,9 @@ You fall asleep on a train and wake up completely abandoned. The TV turns on to 
   -Scene could show doors opening to a calm neighborhood to indicate player made it home
 
 ### Work Division
-Steven To: Station work, code\
-Robert Pickell: Art/story, code\
-Christian Cate: Station work, code\
-Kristine Alba: Art, station work, code
+Steven To: Level design, music\
+Robert Pickell: Art, storyline\
+Christian Cate: Level design, UI\
+Kristine Alba: Art, storyline
 
 
